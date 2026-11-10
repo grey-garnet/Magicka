@@ -220,4 +220,4 @@ Magicka is provided as a complete free version. You can enjoy all features and u
 Don't miss out on the adventure of a lifetime — download Magicka today and unleash your magical potential!
 
 ---
-**Last updated:** 2026-11-09 20:24:44 UTC
+**Last updated:** 2026-11-10 03:10:11 UTC
